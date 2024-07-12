@@ -1,0 +1,7 @@
+Nombre: 2
+Telefono : 3
+Alumno : 1
+Direccion : 4
+Edad : 5
+exo : 6
+ciclo : 7
